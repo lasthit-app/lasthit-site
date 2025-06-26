@@ -1,15 +1,17 @@
 # Objective Securing Practise Tool
 
-A free, browser-based tool designed to help players practice securing objectives in some MOBA games.
+A free, browser-based tool designed to help players practise securing objectives in some MOBA games.
 
 ## Why This Tool?
-Use this tool to warm up your reaction time, practise high pressure situations, and see where you compare against others when securing objectives.
+- Warm up and improve your reaction time before real games
+- Simulate high pressure situations and build confidence
+- See where you compare against others
 
 ## Features
-- Practise securing big objectives in a mini game setting.
-- Save games to your profile to track progress.
+- Practise securing big objectives in a fun, mini-game setting.
+- Save games to your profile to track improvement over time.
 - Play against friends.
-- A leaderboard showing users with the fastest average reaction times.
+- Climb the leaderboard based on your average reaction time.
 
 ## Try It Out
 
